@@ -1,5 +1,5 @@
 
-# My fav  - `jt -t onedork -f droidmono -fs 100 -altp -tf sourcesans -tfs 11 -nfs 115 -ofs 9 -cellw 88% -T`
+# My fav  - `jt -t onedork -f droidmono -fs 97 -altp -tf sourcesans -tfs 11 -nfs 115 -ofs 9 -cellw 88% -T`
 # jupyterthemes
 ## Theme-ify your Jupyter Notebooks!
 
